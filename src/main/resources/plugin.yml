@@ -1,0 +1,8 @@
+name: KotlinLibrary
+version: '1.0.0'
+main: top.whcraftmc.kotlinLibrary.KotlinLibrary
+api-version: '1.13.2'
+load: STARTUP
+author: WhCraftMC
+authors: [ bilirumble ]
+description: A library plugin for kotlin support
