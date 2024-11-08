@@ -1,5 +1,5 @@
 name: KotlinLibrary
-version: '1.0.0'
+version: '0.1.5'
 main: top.whcraftmc.kotlinLibrary.KotlinLibrary
 api-version: '1.13.2'
 load: STARTUP
